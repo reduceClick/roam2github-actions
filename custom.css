@@ -6,6 +6,8 @@ nav .ui__icon {
   display: none !important;
 }
 
+
+/*隐藏recent*/
 .recent {
   display: none; 
 }
