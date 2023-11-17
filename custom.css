@@ -7,8 +7,9 @@ nav .ui__icon {
 }
 
 .recent {
-  display: none;
+  display: none; //隐藏recent
 }
+
 
 .page-icon {
   display: none !important;
