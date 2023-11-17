@@ -1,0 +1,100 @@
+.cm-s-solarized.CodeMirror {
+    box-shadow: none;
+}
+
+nav .ui__icon {
+  display: none !important;
+}
+
+.recent {
+  display: none;
+}
+
+.page-icon {
+  display: none !important;
+}
+
+.keyboard-shortcut {
+  display: none;
+}
+
+b {
+  font-weight: 500;
+}
+
+span.inline {
+  color: #333;
+}
+textarea {
+  color: #333;
+}
+
+.left-sidebar-inner a.item:hover {
+    background-color: var(--ls-block-properties-background-color);
+}
+
+.left-sidebar-inner .nav-content-item .header:hover {
+    background-color: var(--ls-block-properties-background-color);
+}
+
+.left-sidebar-inner .nav-content-item .bd ul a:hover {
+    background-color: var(--ls-block-properties-background-color);
+}
+
+nav .flex-1{
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+#repo-name {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.header .ui__icon {
+  display: none !important;
+}
+
+.header .flex-1 {
+  margin-left: 0;
+}
+
+.bd .page-icon {
+  margin-left: 0;
+}
+
+.bd .justify-center {
+	justify-content: left;
+}
+
+.left-sidebar-inner .nav-content-item .header a {
+  opacity: 1;
+  font-weight: 600;
+}
+
+#main-content-container {
+    font-size: 0.9em; //正文字号
+}
+
+a.tag {
+  color: #1D7D58;
+  font-weight: 600;
+  opacity: 1;
+}
+
+.items-baseline {
+    align-items: center;
+}
+
+:root {
+    --ls-page-text-size: 0.9em; //正文字号
+    --ls-page-title-size: 24px;
+}
+
+.block-content-wrapper {
+  line-height:24px;
+}
+
+.editor-inner textarea {
+  line-height:24px;
+}
