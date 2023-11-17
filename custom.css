@@ -67,7 +67,7 @@ nav .flex-1{
 }
 
 .bd .justify-center {
-	justify-content: left;
+  justify-content: left;
 }
 
 .left-sidebar-inner .nav-content-item .header a {
@@ -75,14 +75,17 @@ nav .flex-1{
   font-weight: 600;
 }
 
-#main-content-container {
-    font-size: 0.9em; 
-}
-
 a.tag {
   color: #1D7D58;
   font-weight: 600;
   opacity: 1;
+}
+
+
+/* 以下为正文字号部分，可以删除 */
+
+#main-content-container {
+    font-size: 0.9em; 
 }
 
 .items-baseline {
