@@ -7,7 +7,7 @@ nav .ui__icon {
 }
 
 .recent {
-  display: none; //隐藏recent
+  display: none; 
 }
 
 
@@ -74,7 +74,7 @@ nav .flex-1{
 }
 
 #main-content-container {
-    font-size: 0.9em; //正文字号
+    font-size: 0.9em; 
 }
 
 a.tag {
@@ -88,7 +88,7 @@ a.tag {
 }
 
 :root {
-    --ls-page-text-size: 0.9em; //正文字号
+    --ls-page-text-size: 0.9em; 
     --ls-page-title-size: 24px;
 }
 
